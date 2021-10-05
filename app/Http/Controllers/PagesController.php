@@ -58,11 +58,11 @@ class PagesController extends Controller
     	return view('pages.contact');
     }
 
-     public function letter(){
+     public function blog(){
 
 
 
-        return view('pages.letter');
+        return view('pages.blog');
     }
 
      

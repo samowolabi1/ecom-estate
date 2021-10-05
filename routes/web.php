@@ -21,6 +21,11 @@ Route::get('/','PagesController@index')->name('welcome');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+//
+	Route::get('/about-us', 'PagesController@about')->name('about');
+	Route::get('/contact-us', 'PagesController@contact')->name('contact');
+	Route::get('/blog', 'PagesController@blog')->name('blog');
+	
 Route::group(['middleware' => 'auth'],function(){
     
     //users
@@ -33,6 +38,8 @@ Route::group(['middleware' => 'auth'],function(){
 	Route::put('/user/update-profile/{id}', 'UserController@proupdate')->name('update.profile');
 	Route::put('/user/status/{id}', 'UserController@status')->name('user.status');
 	Route::post('/user/new', 'UserController@store')->name('adduser');
+
+	
 
 	//Tickets
 	Route::get('/tickets', 'TicketController@index')->name('tickets');
