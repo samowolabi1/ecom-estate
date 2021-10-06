@@ -25,6 +25,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 	Route::get('/about-us', 'PagesController@about')->name('about');
 	Route::get('/contact-us', 'PagesController@contact')->name('contact');
 	Route::get('/blog', 'PagesController@blog')->name('blog');
+	Route::get('/our-properties', 'PagesController@property')->name('property');
 	
 Route::group(['middleware' => 'auth'],function(){
     
