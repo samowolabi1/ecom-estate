@@ -336,22 +336,22 @@
                 <div class="card-header-d">
                   <div class="card-title-d align-self-center">
                     <h3 class="title-d">
-                      <a href="agent-single.html" class="link-two">Margaret Sotillo
-                        <br> Escala</a>
+                      <a href="#" class="link-two">Appolo Estate
+                        <br> </a>
                     </h3>
                   </div>
                 </div>
                 <div class="card-body-d">
                   <p class="content-d color-text-a">
-                    Sed porttitor lectus nibh, Cras ultricies ligula sed magna dictum porta two.
+                    An optional brief information about the agent, name and brand.
                   </p>
                   <div class="info-agents color-a">
-                    <p>
+                    <!-- <p>
                       <strong>Phone: </strong> +234 706 945 234
                     </p>
                     <p>
-                      <strong>Email: </strong> agents@example.com
-                    </p>
+                      <strong>Email: </strong> agents@email.com
+                    </p> -->
                   </div>
                 </div>
                 <div class="card-footer-d">
@@ -392,22 +392,22 @@
                 <div class="card-header-d">
                   <div class="card-title-d align-self-center">
                     <h3 class="title-d">
-                      <a href="agent-single.html" class="link-two">Stiven Spilver
-                        <br> Darw</a>
+                      <a href="agent-single.html" class="link-two">Brainy Agents
+                        <br> </a>
                     </h3>
                   </div>
                 </div>
                 <div class="card-body-d">
                   <p class="content-d color-text-a">
-                    Sed porttitor lectus nibh, Cras ultricies ligula sed magna dictum porta two.
+                    An optional brief information about the agent, name and brand..
                   </p>
                   <div class="info-agents color-a">
-                    <p>
-                      <strong>Phone: </strong> +54 356 945234
+                    <!-- <p>
+                      <strong>Phone: </strong> 07064587464
                     </p>
                     <p>
-                      <strong>Email: </strong> agents@example.com
-                    </p>
+                      <strong>Email: </strong> agents@email.com
+                    </p> -->
                   </div>
                 </div>
                 <div class="card-footer-d">
@@ -448,22 +448,22 @@
                 <div class="card-header-d">
                   <div class="card-title-d align-self-center">
                     <h3 class="title-d">
-                      <a href="agent-single.html" class="link-two">Emma Toledo
-                        <br> Cascada</a>
+                      <a href="agent-single.html" class="link-two">Real Agents
+                        <br></a>
                     </h3>
                   </div>
                 </div>
                 <div class="card-body-d">
                   <p class="content-d color-text-a">
-                    Sed porttitor lectus nibh, Cras ultricies ligula sed magna dictum porta two.
+                    An optional brief information about the agent, name and brand.
                   </p>
                   <div class="info-agents color-a">
-                    <p>
+                    <!-- <p>
                       <strong>Phone: </strong> +54 356 945234
                     </p>
                     <p>
                       <strong>Email: </strong> agents@example.com
-                    </p>
+                    </p> -->
                   </div>
                 </div>
                 <div class="card-footer-d">

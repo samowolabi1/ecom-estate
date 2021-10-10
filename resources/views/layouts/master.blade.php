@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="{{asset('ast/img/favicon.png')}}" rel="icon">
-  <link href="{{asset('assets/img/apple-touch-icon.png')}}" rel="apple-touch-icon">
+<!--   <link href="{{asset('ast/img/favicon.png')}}" rel="icon">
+  <link href="{{asset('assets/img/apple-touch-icon.png')}}" rel="apple-touch-icon"> -->
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -114,10 +114,10 @@
               <label class="pb-2" for="price">Min Price</label>
               <select class="form-control form-select form-control-a" id="price">
                 <option>Unlimite</option>
-                <option>$50,000</option>
-                <option>$100,000</option>
-                <option>$150,000</option>
-                <option>$200,000</option>
+                <option>50,000</option>
+                <option>100,000</option>
+                <option>150,000</option>
+                <option>200,000</option>
               </select>
             </div>
           </div>
@@ -151,7 +151,7 @@
           </li>
 
           <li class="nav-item">
-            <a class="nav-link " href="{{route('property')}}">Property</a>
+            <a class="nav-link " href="{{route('property')}}">Properties</a>
           </li>
 
 
@@ -181,11 +181,20 @@
                             @endif
                         @else
                             <li class="nav-item dropdown">
+                                
+                            
+
                                 <a id="navbarDropdown" class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre>
                                     {{ Auth::user()->name }} <span class="caret"></span>
                                 </a>
 
                                 <div class="dropdown-menu">
+                                   
+                                    <a class="dropdown-item" href="{{url('/home')}}">
+                                        Dashboard
+                                    </a>
+
+
                                     <a class="dropdown-item" href="{{ route('logout') }}"
                                        onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();">
