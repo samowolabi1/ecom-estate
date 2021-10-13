@@ -120,7 +120,7 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="property-single.html">1 Bedroom mini flat for sale
+                        <a href="{{route('show.property')}}">1 Bedroom mini flat for sale
                           <br /> Bridgate Estate, Agungun. Lekki Lagos</a>
                       </h2>
                     </div>
@@ -168,7 +168,7 @@
                   <div class="card-overlay-a-content">
                     <div class="card-header-a">
                       <h2 class="card-title-a">
-                        <a href="property-single.html">4 bedroom detached duplex
+                        <a href="{{route('show.property')}}">4 bedroom detached duplex
                           <br /> GRA Phase 2, Magodo, Lagos</a>
                       </h2>
                     </div>
@@ -224,7 +224,7 @@
                       <div class="price-box d-flex">
                         <span class="price-a">rent | &#8358; 12.000</span>
                       </div>
-                      <a href="property-single.html" class="link-a">Click here to view
+                      <a href="{{route('show.property')}}" class="link-a">Click here to view
                         <span class="bi bi-chevron-right"></span>
                       </a>
                     </div>
@@ -272,7 +272,7 @@
                       <div class="price-box d-flex">
                         <span class="price-a">rent | &#8358; 1200000</span>
                       </div>
-                      <a href="property-single.html" class="link-a">Click here to view
+                      <a href="{{route('show.property')}}" class="link-a">Click here to view
                         <span class="bi bi-chevron-right"></span>
                       </a>
                     </div>
@@ -392,7 +392,7 @@
                 <div class="card-header-d">
                   <div class="card-title-d align-self-center">
                     <h3 class="title-d">
-                      <a href="agent-single.html" class="link-two">Brainy Agents
+                      <a href="#" class="link-two">Brainy Agents
                         <br> </a>
                     </h3>
                   </div>

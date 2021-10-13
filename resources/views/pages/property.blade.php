@@ -11,7 +11,7 @@
           <div class="col-md-12 col-lg-8">
             <div class="title-single-box">
               <h1 class="title-single">Our Amazing Properties</h1>
-              <span class="color-text-a">Grid Properties</span>
+              <span class="color-text-a">Properties</span>
             </div>
           </div>
           <div class="col-md-12 col-lg-4">
@@ -21,7 +21,7 @@
                   <a href="#">Home</a>
                 </li>
                 <li class="breadcrumb-item active" aria-current="page">
-                  Properties Grid
+                  Properties
                 </li>
               </ol>
             </nav>
@@ -61,7 +61,7 @@
                   </div>
                   <div class="card-body-a">
                     <div class="price-box d-flex">
-                      <span class="price-a">rent | $ 12.000</span>
+                      <span class="price-a">rent | &#8358; 12.000</span>
                     </div>
                     <a href="property-single.html" class="link-a">Click here to view
                       <span class="bi bi-chevron-right"></span>
@@ -108,7 +108,7 @@
                   </div>
                   <div class="card-body-a">
                     <div class="price-box d-flex">
-                      <span class="price-a">rent | $ 12.000</span>
+                      <span class="price-a">rent | &#8358; 12.000</span>
                     </div>
                     <a href="property-single.html" class="link-a">Click here to view
                       <span class="bi bi-chevron-right"></span>
@@ -155,7 +155,7 @@
                   </div>
                   <div class="card-body-a">
                     <div class="price-box d-flex">
-                      <span class="price-a">rent | $ 12.000</span>
+                      <span class="price-a">rent | &#8358; 12.000</span>
                     </div>
                     <a href="property-single.html" class="link-a">Click here to view
                       <span class="bi bi-chevron-right"></span>
@@ -202,7 +202,7 @@
                   </div>
                   <div class="card-body-a">
                     <div class="price-box d-flex">
-                      <span class="price-a">rent | $ 12.000</span>
+                      <span class="price-a">rent | &#8358; 12.000</span>
                     </div>
                     <a href="property-single.html" class="link-a">Click here to view
                       <span class="bi bi-chevron-right"></span>
@@ -249,7 +249,7 @@
                   </div>
                   <div class="card-body-a">
                     <div class="price-box d-flex">
-                      <span class="price-a">rent | $ 12.000</span>
+                      <span class="price-a">rent | &#8358; 12.000</span>
                     </div>
                     <a href="property-single.html" class="link-a">Click here to view
                       <span class="bi bi-chevron-right"></span>
@@ -296,7 +296,7 @@
                   </div>
                   <div class="card-body-a">
                     <div class="price-box d-flex">
-                      <span class="price-a">rent | $ 12.000</span>
+                      <span class="price-a">rent | &#8358; 12.000</span>
                     </div>
                     <a href="property-single.html" class="link-a">Click here to view
                       <span class="bi bi-chevron-right"></span>

@@ -56,6 +56,13 @@ class PagesController extends Controller
         return view('pages.property');
     }
 
+     public function showp(){
+
+
+
+        return view('pages.showp');
+    }
+
    
 
     public function contact(){
